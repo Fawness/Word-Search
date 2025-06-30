@@ -4,7 +4,7 @@ A modern, customizable browser-based word search application built with Node.js 
 
 ## 🎮 Features
 
-- **Multiple Themes**: Nature, Animals, Space, Food, and Sports
+- **Multiple Themes**: Nature, Animals, Space, Food, Sports, and Deer
 - **Customizable Grid Sizes**: From 8x8 to 20x20
 - **Difficulty Levels**: Easy, Medium, and Hard
 - **Interactive Gameplay**: Click and drag to select words
@@ -70,7 +70,7 @@ word-search-app/
 ## 🎯 How to Play
 
 1. **Configure Your Game**:
-   - Choose a theme (Nature, Animals, Space, Food, or Sports)
+   - Choose a theme (Nature, Animals, Space, Food, Sports, or Deer)
    - Select grid size (8x8 to 20x20)
    - Pick difficulty level (Easy, Medium, or Hard)
 
@@ -109,6 +109,7 @@ Each theme includes carefully curated word lists:
 - **Space**: Planet, Star, Galaxy, Nebula, Asteroid, Comet, Orbit, Telescope, etc.
 - **Food**: Pizza, Burger, Sushi, Pasta, Salad, Sandwich, Taco, Steak, etc.
 - **Sports**: Football, Basketball, Baseball, Soccer, Tennis, Golf, Swimming, etc.
+- **Deer**: Whitetail, Mule Deer, Elk, Moose, Caribou, Reindeer, Fallow, Roe Deer, etc.
 
 ## 🎮 Difficulty Levels
 

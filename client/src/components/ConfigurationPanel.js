@@ -157,7 +157,8 @@ const ConfigurationPanel = ({ config, onConfigChange, onNewGame }) => {
       animals: 'Wild animals from around the world',
       space: 'Planets, stars, and cosmic objects',
       food: 'Delicious dishes and ingredients',
-      sports: 'Athletic activities and games'
+      sports: 'Athletic activities and games',
+      deer: 'Species of deer from around the world'
     };
     return descriptions[theme] || '';
   };
